@@ -38,19 +38,6 @@ namespace TypeConversion
             int int2 = -1;
             uint int2ToUInt = (uint)int2;
             Console.WriteLine("int2ToUInt: " + int2ToUInt);
-
-            int intMaxValue = int.MaxValue;
-            Console.WriteLine("intMaxValue: " + intMaxValue);
-
-            int intMinValue = int.MinValue;
-            Console.WriteLine("intMinValue: " + intMinValue);
-
-            uint uintMaxValue = uint.MaxValue;
-            Console.WriteLine("uintMaxValue: " + uintMaxValue);
-
-            uint uintMinValue = uint.MinValue;
-            Console.WriteLine("uintMinValue: " + uintMinValue);
-
         }
     }
 }
