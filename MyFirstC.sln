@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversion", "TypeConve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3", "3", "{D0718276-0905-4AAA-9C19-49C13825DB3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{38E0283F-37D7-4B85-B2B9-5E0182751F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{38E0283F-37D7-4B85-B2B9-5E0182751F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementAndDecrementOperators", "IncrementAndDecrementOperators\IncrementAndDecrementOperators.csproj", "{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{38E0283F-37D7-4B85-B2B9-5E0182751F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E0283F-37D7-4B85-B2B9-5E0182751F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E0283F-37D7-4B85-B2B9-5E0182751F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{47945E40-798C-4ED4-9255-19F38C4E3B1D} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{38E0283F-37D7-4B85-B2B9-5E0182751F65} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
+		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0E7C2CE-F62B-4F80-90FA-117A8586FB27}

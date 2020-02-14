@@ -1,0 +1,11 @@
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.exe
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.deps.json
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.dll
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\bin\Debug\netcoreapp3.1\PrefixPostfix.pdb
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\obj\Debug\netcoreapp3.1\PrefixPostfix.csprojAssemblyReference.cache
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\obj\Debug\netcoreapp3.1\PrefixPostfix.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\obj\Debug\netcoreapp3.1\PrefixPostfix.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\obj\Debug\netcoreapp3.1\PrefixPostfix.dll
+C:\Users\kim\Documents\MyFirstCshop\PrefixPostfix\obj\Debug\netcoreapp3.1\PrefixPostfix.pdb

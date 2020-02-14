@@ -1,0 +1,11 @@
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.exe
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.deps.json
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.dll
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\IncrementAndDecrementOperators.pdb
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\IncrementAndDecrementOperators.csprojAssemblyReference.cache
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\IncrementAndDecrementOperators.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\IncrementAndDecrementOperators.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\IncrementAndDecrementOperators.dll
+C:\Users\kim\Documents\MyFirstCshop\IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\IncrementAndDecrementOperators.pdb
