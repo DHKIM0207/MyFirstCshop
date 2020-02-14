@@ -1,0 +1,11 @@
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\kim\source\repos\MyFirstC\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
