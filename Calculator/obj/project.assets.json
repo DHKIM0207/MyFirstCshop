@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kim\\Documents\\MyFirstCshop\\TypeConversion\\TypeConversion.csproj",
-      "projectName": "TypeConversion",
-      "projectPath": "C:\\Users\\kim\\Documents\\MyFirstCshop\\TypeConversion\\TypeConversion.csproj",
+      "projectUniqueName": "C:\\Users\\kim\\Documents\\MyFirstCshop\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "C:\\Users\\kim\\Documents\\MyFirstCshop\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\kim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kim\\Documents\\MyFirstCshop\\TypeConversion\\obj\\",
+      "outputPath": "C:\\Users\\kim\\Documents\\MyFirstCshop\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kim\\AppData\\Roaming\\NuGet\\NuGet.Config",
