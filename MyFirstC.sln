@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNumbers", "GetNumbers\GetNumbers.csproj", "{13B8D17A-B645-4163-AC72-F2546BDE63C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertStudentInformation", "InsertStudentInformation\InsertStudentInformation.csproj", "{E1E8937C-BD0C-46B8-96E0-268DEF53CF11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{13B8D17A-B645-4163-AC72-F2546BDE63C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B8D17A-B645-4163-AC72-F2546BDE63C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B8D17A-B645-4163-AC72-F2546BDE63C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{12798245-79C0-47B4-8C6B-F77516262DE6} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{13B8D17A-B645-4163-AC72-F2546BDE63C3} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
+		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0E7C2CE-F62B-4F80-90FA-117A8586FB27}
