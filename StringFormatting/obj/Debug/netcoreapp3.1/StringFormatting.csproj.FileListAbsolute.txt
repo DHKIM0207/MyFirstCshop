@@ -8,3 +8,4 @@ C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\Str
 C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfo.cs
 C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.dll
 C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.pdb
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.csprojAssemblyReference.cache

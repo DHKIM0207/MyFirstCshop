@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitFlag", "BitFlag\BitFlag.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{834E437A-09ED-4689-AB92-2BBFB9A1F920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStudentInfo", "PrintStudentInfo\PrintStudentInfo.csproj", "{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{8825A82D-5031-4FAC-B79A-C197145B92DC} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{834E437A-09ED-4689-AB92-2BBFB9A1F920} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
+		{E57B291A-1A7A-410E-90E3-8C03A8DDE0C2} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0E7C2CE-F62B-4F80-90FA-117A8586FB27}
