@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.exe
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.deps.json
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.pdb
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\kim\Documents\MyFirstCshop\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.pdb
