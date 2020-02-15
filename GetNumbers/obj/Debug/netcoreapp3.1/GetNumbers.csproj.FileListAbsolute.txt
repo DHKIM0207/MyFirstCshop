@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.exe
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.deps.json
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.dll
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\bin\Debug\netcoreapp3.1\GetNumbers.pdb
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\obj\Debug\netcoreapp3.1\GetNumbers.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\obj\Debug\netcoreapp3.1\GetNumbers.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\obj\Debug\netcoreapp3.1\GetNumbers.dll
+C:\Users\kim\Documents\MyFirstCshop\GetNumbers\obj\Debug\netcoreapp3.1\GetNumbers.pdb
