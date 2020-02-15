@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementAndDecrementOperat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitFlag", "BitFlag\BitFlag.csproj", "{8825A82D-5031-4FAC-B79A-C197145B92DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{834E437A-09ED-4689-AB92-2BBFB9A1F920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{8825A82D-5031-4FAC-B79A-C197145B92DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8825A82D-5031-4FAC-B79A-C197145B92DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8825A82D-5031-4FAC-B79A-C197145B92DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834E437A-09ED-4689-AB92-2BBFB9A1F920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{38E0283F-37D7-4B85-B2B9-5E0182751F65} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{BBD56261-3C7D-4CFC-9E4B-C7AD6793C0B0} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{8825A82D-5031-4FAC-B79A-C197145B92DC} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
+		{834E437A-09ED-4689-AB92-2BBFB9A1F920} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0E7C2CE-F62B-4F80-90FA-117A8586FB27}

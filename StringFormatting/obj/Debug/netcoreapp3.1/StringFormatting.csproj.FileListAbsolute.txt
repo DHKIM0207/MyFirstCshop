@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.exe
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.deps.json
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.dll
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.pdb
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.dll
+C:\Users\kim\Documents\MyFirstCshop\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.pdb
