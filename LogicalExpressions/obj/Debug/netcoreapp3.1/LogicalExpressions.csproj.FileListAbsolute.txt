@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.exe
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.deps.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.dll
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\bin\Debug\netcoreapp3.1\LogicalExpressions.pdb
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\obj\Debug\netcoreapp3.1\LogicalExpressions.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\obj\Debug\netcoreapp3.1\LogicalExpressions.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\obj\Debug\netcoreapp3.1\LogicalExpressions.dll
+C:\Users\kim\Documents\MyFirstCshop\LogicalExpressions\obj\Debug\netcoreapp3.1\LogicalExpressions.pdb

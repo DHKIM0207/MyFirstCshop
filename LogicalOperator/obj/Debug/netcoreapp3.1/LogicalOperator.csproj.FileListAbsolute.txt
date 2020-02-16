@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.exe
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.deps.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.dll
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.pdb
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.dll
+C:\Users\kim\Documents\MyFirstCshop\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.pdb
