@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.exe
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.deps.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.dll
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\bin\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.pdb
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\obj\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\obj\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\obj\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.dll
+C:\Users\kim\Documents\MyFirstCshop\CalculatorWithSwitchStatement\obj\Debug\netcoreapp3.1\CalculatorWithSwitchStatement.pdb
