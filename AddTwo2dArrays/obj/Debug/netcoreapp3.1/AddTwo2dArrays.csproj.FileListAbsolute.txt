@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.exe
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.deps.json
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.dll
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\bin\Debug\netcoreapp3.1\AddTwo2dArrays.pdb
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\obj\Debug\netcoreapp3.1\AddTwo2dArrays.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\obj\Debug\netcoreapp3.1\AddTwo2dArrays.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\obj\Debug\netcoreapp3.1\AddTwo2dArrays.dll
+C:\Users\kim\Documents\MyFirstCshop\AddTwo2dArrays\obj\Debug\netcoreapp3.1\AddTwo2dArrays.pdb
