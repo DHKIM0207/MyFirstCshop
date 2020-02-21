@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertStudentInformation", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4", "4", "{3328D616-0F6F-45F9-9502-9FD0127D1C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithSwitchStatement", "CalculatorWithSwitchStatement\CalculatorWithSwitchStatement.csproj", "{3354B723-FEF0-48D8-828C-C106BD1FAF06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorWithSwitchStatement", "CalculatorWithSwitchStatement\CalculatorWithSwitchStatement.csproj", "{3354B723-FEF0-48D8-828C-C106BD1FAF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteWhileLoop", "InfiniteWhileLoop\InfiniteWhileLoop.csproj", "{AE0EC0E5-2C41-4834-B2E4-6D03C817B727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{3354B723-FEF0-48D8-828C-C106BD1FAF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3354B723-FEF0-48D8-828C-C106BD1FAF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3354B723-FEF0-48D8-828C-C106BD1FAF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0EC0E5-2C41-4834-B2E4-6D03C817B727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0EC0E5-2C41-4834-B2E4-6D03C817B727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0EC0E5-2C41-4834-B2E4-6D03C817B727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0EC0E5-2C41-4834-B2E4-6D03C817B727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{13B8D17A-B645-4163-AC72-F2546BDE63C3} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{E1E8937C-BD0C-46B8-96E0-268DEF53CF11} = {D0718276-0905-4AAA-9C19-49C13825DB3C}
 		{3354B723-FEF0-48D8-828C-C106BD1FAF06} = {3328D616-0F6F-45F9-9502-9FD0127D1C21}
+		{AE0EC0E5-2C41-4834-B2E4-6D03C817B727} = {3328D616-0F6F-45F9-9502-9FD0127D1C21}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0E7C2CE-F62B-4F80-90FA-117A8586FB27}

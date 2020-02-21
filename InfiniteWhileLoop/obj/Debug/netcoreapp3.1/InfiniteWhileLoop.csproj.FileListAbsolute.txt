@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.exe
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.deps.json
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.dll
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\bin\Debug\netcoreapp3.1\InfiniteWhileLoop.pdb
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\obj\Debug\netcoreapp3.1\InfiniteWhileLoop.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\obj\Debug\netcoreapp3.1\InfiniteWhileLoop.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\obj\Debug\netcoreapp3.1\InfiniteWhileLoop.dll
+C:\Users\kim\Documents\MyFirstCshop\InfiniteWhileLoop\obj\Debug\netcoreapp3.1\InfiniteWhileLoop.pdb
