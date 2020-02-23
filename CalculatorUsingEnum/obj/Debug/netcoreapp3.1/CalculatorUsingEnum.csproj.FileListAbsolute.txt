@@ -1,0 +1,10 @@
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.exe
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.deps.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.runtimeconfig.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.runtimeconfig.dev.json
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.dll
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\bin\Debug\netcoreapp3.1\CalculatorUsingEnum.pdb
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\obj\Debug\netcoreapp3.1\CalculatorUsingEnum.AssemblyInfoInputs.cache
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\obj\Debug\netcoreapp3.1\CalculatorUsingEnum.AssemblyInfo.cs
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\obj\Debug\netcoreapp3.1\CalculatorUsingEnum.dll
+C:\Users\kim\Documents\MyFirstCshop\CalculatorUsingEnum\obj\Debug\netcoreapp3.1\CalculatorUsingEnum.pdb
